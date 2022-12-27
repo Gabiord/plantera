@@ -2,7 +2,7 @@ import React from "react";
 
 const ItemListContainer = (prop) => {
 
-    const mensaje="Este sitio Web esta en construccion"
+    const mensaje="Este sitio Web esta en construcción"
 
     return(
         <div className="containerBanner">

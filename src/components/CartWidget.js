@@ -1,4 +1,5 @@
-import {ShoppingBagIcon} from '@heroicons/react/24/outline'
+import {ShoppingBagIcon} from '@heroicons/react/24/outline';
+
 function CartWidget (){
     return(
         <div className="ml-4 flow-root lg:ml-6">
